@@ -8,7 +8,7 @@ img.addEventListener("click",()=>{
     }
 });
 
-localStorage.clear();
+// localStorage.clear();
 let h1 = document.querySelector("h1");
 
 window.onload = ()=>{
